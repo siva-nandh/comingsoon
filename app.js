@@ -1,6 +1,6 @@
 // ♫ ♫ IT'S THE FINAL COUNTDOWN ♫ ♫ //
 
-var endingDate = new Date("July 10, 2021 13:37:00").getTime();
+var endingDate = new Date("July 15, 2021 13:37:00").getTime();
 var x = setInterval(function() {
 	var current = new Date().getTime();
 	var remainingTime = endingDate - current;
