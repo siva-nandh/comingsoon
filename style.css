@@ -14,11 +14,11 @@ html {
 }
 
 .hero-head header {
-    height: 75px;
+    height: 100px;
 }
 
 .hero-head header .navbar-item img {
-    height: 40px;
+    height: 80px;
     max-height: none;
 }
 
